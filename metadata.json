@@ -1,0 +1,6 @@
+{
+  "name": "Project 1 — Void–CMB Research To-Do",
+  "description": "Interactive lightweight to-do list and execution roadmap for Project 1: Cosmic Voids and CMB Temperature Cross-Correlation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

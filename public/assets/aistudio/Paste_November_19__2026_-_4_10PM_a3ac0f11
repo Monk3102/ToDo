@@ -1,0 +1,1026 @@
+Worked for 28s
+
+### Project 4 — PhD applications and professor outreach (Europe)
+
+This project needs to be treated differently from your other research projects. It is not simply a literature-review task or a list of universities to contact. It is a time-bound application campaign with several parallel workstreams, shared documents, dependencies and weekly targets.
+
+There are actually two connected projects here:
+
+* Annual PhD admissions: Find structured PhD programmes across Europe, understand their admission cycles, prepare application documents and apply before their deadlines.
+
+* Direct professor outreach: Identify relevant professors, read enough of their research to write credible individual emails, and send approximately 70 emails by 25 December.
+
+They overlap in institutions, research areas and documents, but they should have separate trackers. A professor may be part of an annual programme, but contacting that professor is not necessarily the same as applying through the programme. Some programmes require a central application and do not accept informal supervisor arrangements.
+
+### 1\. First, the workload audit
+
+You have five Monday-morning email sessions:
+
+| Monday | Date        | Target emails |
+| ------ | ----------- | ------------- |
+| 1      | 23 November | 14            |
+| 2      | 30 November | 14            |
+| 3      | 7 December  | 14            |
+| 4      | 14 December | 14            |
+| 5      | 21 December | 14            |
+| Total  |             | 70            |
+
+These are the five Mondays before Christmas, counting from 23 November 2026.
+
+But there is a serious dependency problem: you have identified around 20 professors, have not yet read their research, and your CV and transcripts are not ready. You also want to keep discovering more professors and annual programmes across Europe.
+
+The main risk is not finding 70 email addresses. It is having 70 credible, personalised emails ready to send.
+
+I would therefore organise the project around these principles:
+
+* Prepare the common documents once. Reuse them carefully.
+
+* Research professors in batches rather than one at a time immediately before sending.
+
+* Separate professors who are suitable for direct outreach from professors who only accept applications through a structured programme.
+
+* Keep discovering new opportunities, but do not let searching consume all the time reserved for applications.
+
+* Do not wait for every possible opportunity before starting applications.
+
+* Treat the 70-email target as a campaign target, not a reason to send generic or poorly researched messages.
+
+A useful quality rule: no professor enters the Monday sending queue until their research has been reviewed and the email has been checked.
+
+### 2\. An important finding from the admissions audit
+
+I checked several official programme pages. There is a timing issue you should account for immediately: some of the most recognisable annual programmes for a September 2027 start have already closed their main application rounds.
+
+For example:
+
+* The IMPRS on Astrophysics has closed its 2026/27 application round. Its next regular round is expected to open in August 2027, for a September 2028 start. IMPRS on Astrophysics +2
+
+* IMPRS-HD had a 3 November 2026 deadline for its 2027 intake. imprs-hd.mpg.de +1
+
+* The IMPRS UFAST deadline was 6 November 2026. mpsd.mpg.de
+
+* The IMPRS for Astronomy and Astrophysics Bonn-Cologne listed 30 October 2026 as its deadline. eas.unige.ch
+
+That does not mean you should stop looking for 2027 positions. Some opportunities have later deadlines or recruit through individual projects:
+
+* University of Manchester lists a 22 January 2027 deadline for full consideration for its STFC-funded astrophysics studentships. The University of Manchester
+
+* University College London has advertised funded PhD positions starting in October 2027, with applications closing in January. Faculty of Mathematical & Physical Sciences
+
+* Durham University says complete applications received before 15 December 2026 will receive fullest consideration for October 2027 entry. Astronomy at Durham University
+
+* The Max Planck Institute for Gravitational Physics (AEI) describes an annual PhD call, usually with an early-January deadline. You should check the current call rather than assume that its usual schedule is unchanged. imprs.aei.mpg.de
+
+My recommendation: run two admission searches in parallel:
+
+* 2027-entry opportunities that are still open, including individual funded projects.
+
+* 2028-entry annual programmes whose application portals will open later.
+
+Do not confuse an annual programme with an individual advertised PhD vacancy. Both can lead to a PhD, but their application routes and deadlines can be very different.
+
+### 3\. The project structure
+
+I would divide the work into six independent workstreams. They will run in parallel, but some depend on others.
+
+### PhD application campaign
+
+A. Application documents
+
+CV, transcripts, certificates, thesis abstract, research summary, references.
+
+B. Annual programme search
+
+Structured programmes, eligibility, deadlines, funding, application portals.
+
+C. Individual PhD vacancy search
+
+Advertised funded positions, project descriptions, supervisor contacts, deadlines.
+
+D. Professor research audit
+
+Identify, read and understand each professor's relevant research.
+
+E. Email campaign
+
+Draft, review, send, track replies and follow-ups.
+
+F. Application execution
+
+Complete applications, request references, submit and track outcomes.
+
+Workstreams A–F are separate trackers, but they share information and documents.
+
+### Workstream A — Prepare your application documents
+
+Start immediately
+
+This is your first bottleneck. You should not wait until you have identified all 70 professors to prepare the documents.
+
+### A1. CV
+
+* Collect your existing CV, even if incomplete.
+
+* Create a clean academic CV document.
+
+* Add education: MSc, BSc, institutions, dates, grades and relevant coursework.
+
+* Add your dissertation topic and a short description of the work.
+
+* Add your research experience and mini-projects.
+
+* Add computational and scientific skills.
+
+* Add software and tools you can genuinely use.
+
+* Add workshops, conferences, presentations and relevant academic activities.
+
+* Add awards or academic distinctions, if applicable.
+
+* Add referees only after confirming their willingness and contact details.
+
+* Export as PDF.
+
+* Check formatting, spelling, dates and consistency.
+
+Important: do not wait for your project GitHub links to be ready.
+
+Make the CV now. Include projects with an accurate description of their current status. Add GitHub links when the repositories are presentable. An unfinished project can still be described honestly as ongoing work, but do not present planned results as completed research.
+
+### A2. Academic records and transcripts
+
+Start immediately
+
+* Contact your university's examination branch or department.
+
+* Ask how to obtain official MSc transcripts.
+
+* Ask whether provisional or semester-wise grade sheets can be issued.
+
+* Collect all available semester-wise marksheets.
+
+* Collect your BSc transcripts and degree certificate.
+
+* Collect your MSc enrolment or bonafide certificate if relevant.
+
+* Check whether an official consolidated marksheet is available.
+
+* Scan all documents clearly.
+
+* Save each document as a separate PDF.
+
+* Check whether the target programmes accept provisional records or a course-and-grade list while the final transcript is pending.
+
+Do not assume every university will accept the same substitute. For instance, IMPRS-HD has described allowing a course list with credits and grades when transcripts cannot be provided at the application stage. Other programmes may have different requirements. imprs-hd.mpg.de +1
+
+### A3. Research summary
+
+Prepare a short research summary that can be adapted for different applications.
+
+* Write a brief description of your MSc dissertation.
+
+* State the research question.
+
+* Explain the physical system or phenomenon.
+
+* Mention the methods and computational tools used.
+
+* State what you personally contributed.
+
+* Describe the current status accurately.
+
+* Prepare a short abstract of the work.
+
+* Prepare a longer version of around one page.
+
+This is especially useful because some programmes ask for a preliminary thesis abstract or a description of previous research. IMPRS on Astrophysics +2
+
+### A4. Other reusable documents
+
+* Create a one-page research-interest statement.
+
+* Prepare a general motivation-letter draft.
+
+* Prepare a list of referees.
+
+* Ask potential referees whether they would be willing to provide recommendations.
+
+* Check whether English-language proof is required.
+
+* Collect degree certificates and translations if needed.
+
+* Prepare a standard folder of application PDFs.
+
+Deliverable: A reusable application-document folder, ready to adapt for individual programmes.
+
+### Workstream B — Search for annual PhD programmes across Europe
+
+Do not treat this as a casual browsing activity. Build a database.
+
+### B1. Define the search categories
+
+Search for programmes in these areas:
+
+* Astrophysics
+
+* Cosmology
+
+* Observational cosmology
+
+* Theoretical cosmology
+
+* Extragalactic astronomy
+
+* Large-scale structure
+
+* Galaxy evolution
+
+* Gravitational physics
+
+* Astroparticle physics
+
+* Multimessenger astronomy
+
+You should not restrict the search to programmes explicitly named "Astrophysics". A physics graduate school may have cosmology or astronomy research groups.
+
+### B2. Search by country and institution
+
+Create a country-wise search list. Start with:
+
+* Germany
+
+* Netherlands
+
+* France
+
+* Switzerland
+
+* Italy
+
+* Spain
+
+* Belgium
+
+* Austria
+
+* Sweden
+
+* Denmark
+
+* Finland
+
+* Norway
+
+* United Kingdom
+
+* Ireland
+
+* Portugal
+
+* Poland
+
+* Czech Republic
+
+For each country:
+
+* Search for annual graduate schools and doctoral programmes.
+
+* Search university astronomy and physics departments.
+
+* Search national research institutes.
+
+* Search astronomy observatories and research centres.
+
+* Check whether applications are centralised or supervisor-led.
+
+* Check international applicant eligibility.
+
+* Check funding and employment conditions.
+
+* Record the next intake and deadline.
+
+### B3. Build the programme database
+
+Use these columns:
+
+| Field              | What to record                               |
+| ------------------ | -------------------------------------------- |
+| Programme          | Official programme name                      |
+| Institution        | University or research institute             |
+| Country            | Country                                      |
+| Research areas     | Cosmology, voids, LSS, etc.                  |
+| Admission type     | Annual / rolling / vacancy                   |
+| Intake             | 2027 / 2028                                  |
+| Deadline           | Exact date                                   |
+| Funding            | Funded / unclear / self-funded               |
+| Eligibility        | Degree and grade requirements                |
+| Documents          | CV, transcripts, references, etc.            |
+| Application link   | Official portal                              |
+| Supervisor contact | If appropriate                               |
+| Status             | To investigate / eligible / applied / closed |
+
+### B4. Classify every opportunity
+
+Use four categories:
+
+* Open, relevant, funded or with a clear funding route.
+
+* Relevant programme, next cycle not yet open.
+
+* Relevant professor or group, but no clear advertised vacancy.
+
+* Closed, unsuitable or ineligible.
+
+This will prevent you from spending time preparing an application for a programme that has already closed.
+
+### B5. Search for individual advertised PhD positions too
+
+This deserves its own section in the tracker. Some departments advertise a specific funded project rather than admitting a cohort through an annual programme.
+
+* Check university vacancy pages.
+
+* Check institute vacancy pages.
+
+* Check research-group websites.
+
+* Record the supervisor and project title.
+
+* Record the deadline and required documents.
+
+* Check whether you must contact the supervisor before applying.
+
+* Apply through the stated official route.
+
+Deliverable: A Europe-wide programme and vacancy database, with a clear shortlist of opportunities worth pursuing.
+
+### Workstream C — Professor discovery and research reading
+
+You currently have around 20 professors working on supervoids. That is a useful starting point, but the professor list needs to become a research database.
+
+### C1. Create a professor database
+
+Use these fields:
+
+| Field                   | Purpose                            |
+| ----------------------- | ---------------------------------- |
+| Professor               | Name                               |
+| Institution             | Current affiliation                |
+| Country                 | Location                           |
+| Research group          | Group or department                |
+| Research topic          | Supervoids, LSS, ISW, etc.         |
+| Relevant paper          | Paper selected for reading         |
+| Paper link              | DOI or official link               |
+| Main result             | What the paper found               |
+| Method                  | How the work was done              |
+| Connection to my work   | Your genuine research connection   |
+| Potential PhD direction | Possible overlap                   |
+| Contact route           | Direct email / central programme   |
+| Email status            | Not started / draft / ready / sent |
+| Date contacted          | Tracking                           |
+| Response                | Reply status                       |
+
+### C2. Read papers strategically
+
+You do not need to read every paper by every professor. You do need to understand enough of their research to make a meaningful connection.
+
+For each professor:
+
+* Open their institutional profile.
+
+* Read their research-interest description.
+
+* Identify two or three recent papers relevant to your interests.
+
+* Select one paper as the primary reading.
+
+* Read the abstract.
+
+* Read the introduction to understand the problem.
+
+* Inspect the figures and their captions.
+
+* Read the methodology at a level sufficient to understand the approach.
+
+* Read the conclusion and limitations.
+
+* Write a short research note.
+
+Your note should answer:
+
+* What problem does this paper investigate?
+
+* Why is that problem important?
+
+* What data or theoretical framework is used?
+
+* What method is used?
+
+* What is the main result?
+
+* What remains uncertain or unexplored?
+
+* How does this connect to my background or research interests?
+
+For a first pass, this may take 45–90 minutes per professor, depending on the paper. If you cannot explain the paper's central result in a few sentences, do not yet use it as the basis for a personalised email.
+
+### C3. Use a professor-readiness score
+
+Before drafting an email, check:
+
+* I know the professor's current research area.
+
+* I have read at least one relevant paper.
+
+* I can explain its central question.
+
+* I understand the broad method.
+
+* I can identify a genuine connection to my own interests.
+
+* I know whether the professor supervises PhD students.
+
+* I know the correct application route.
+
+Only when these are satisfied should the professor move to the email queue.
+
+### C4. Expand the list without losing time
+
+Your existing 20 professors are your first batch. Continue searching for more, but do not let the discovery process become endless.
+
+* Find researchers working on supervoids.
+
+* Find researchers working on cosmic voids more generally.
+
+* Find researchers working on ISW and CMB anomalies.
+
+* Find researchers working on large-scale structure.
+
+* Find researchers working on observational cosmology.
+
+* Find researchers working on simulations and theoretical cosmology.
+
+* Check whether each researcher is an appropriate potential supervisor.
+
+This broadening matters. A researcher may work on the physical or observational methods relevant to your interests without using the word "supervoid" in their profile.
+
+Deliverable: A ranked list of professors with research notes and email-readiness status.
+
+### Workstream D — The 70-email campaign
+
+This is a separate production pipeline. Do not write 70 emails from scratch.
+
+### D1. Build a reusable email structure
+
+Every email should have five parts:
+
+* Introduction: Who you are and your current academic position.
+
+* Research connection: What specific work of theirs caught your attention.
+
+* Your background: Your dissertation, relevant projects and computational skills.
+
+* Your interest: What research direction you hope to pursue.
+
+* The question: Whether they expect PhD openings, accept students through an annual programme, or recommend a particular application route.
+
+Keep the structure consistent, but personalise the research connection and the question.
+
+### D2. Create three email templates
+
+* Template A: Professor working directly on supervoids or cosmic voids.
+
+* Template B: Professor working on cosmology, large-scale structure or CMB.
+
+* Template C: Professor associated with an annual PhD programme.
+
+These are starting templates, not messages to send unchanged.
+
+### D3. Prepare each email
+
+For each professor:
+
+* Confirm the professor's current institutional affiliation.
+
+* Check the correct email address on the official website.
+
+* Read the selected paper.
+
+* Write two or three specific sentences about the research.
+
+* Connect it to your background.
+
+* Ask a clear question about PhD opportunities and admission.
+
+* Attach the CV only if appropriate.
+
+* Check that the email is concise and error-free.
+
+* Save the final version in the email tracker.
+
+### D4. Track every email
+
+Record:
+
+* Professor
+
+* Institution
+
+* Email address
+
+* Research paper read
+
+* Date drafted
+
+* Date sent
+
+* CV attached?
+
+* Programme mentioned?
+
+* Reply received?
+
+* Follow-up date
+
+* Outcome
+
+Do not send duplicate emails to the same professor through different addresses unless there is a clear reason.
+
+### D5. Set a follow-up policy
+
+* Record the date each email was sent.
+
+* Wait a reasonable period before following up.
+
+* Send one polite follow-up where appropriate.
+
+* Record replies and any suggested contacts.
+
+* Update the professor database when a professor refers you to another group or programme.
+
+### Workstream E — Application execution
+
+This is where the programme database and document folder come together.
+
+For each shortlisted opportunity:
+
+* Read the official eligibility requirements.
+
+* Confirm whether your expected MSc completion date is acceptable.
+
+* Check whether provisional transcripts are accepted.
+
+* Check funding eligibility for international applicants.
+
+* Identify the required referees.
+
+* Prepare the motivation letter.
+
+* Adapt your research-interest statement.
+
+* Upload the required documents.
+
+* Review the entire application.
+
+* Submit before the deadline.
+
+* Save the confirmation email or application reference.
+
+* Record the submission date and next stage.
+
+Do not wait for a professor to reply if the programme has a central application deadline. If the programme says to apply through its portal, follow that instruction. For example, IMPRS-CPQM explicitly states that applications by email or to individual PIs will not be considered for its current recruitment round. IMPRS-CPQM
+
+### Workstream F — Research and application support
+
+This is the part that will make the campaign easier to manage.
+
+* Keep a folder of papers read.
+
+* Keep a one-page summary of your research background.
+
+* Maintain a list of your strongest projects.
+
+* Keep a record of software and methods you can demonstrate.
+
+* Prepare a short explanation of your MSc dissertation.
+
+* Maintain a list of possible PhD research directions.
+
+* Keep a record of questions to ask professors.
+
+* Track application deadlines separately from email dates.
+
+Your application should present a coherent research profile. It should not look like a random collection of unrelated interests. Your supervoid work can be one important part of that profile, while your broader interests in cosmology, large-scale structure and computational astrophysics can help you approach other groups.
+
+### 4\. The five-week execution calendar
+
+This is the most important part. The work must be organised backwards from your five Monday mornings.
+
+I would use the following weekly rhythm:
+
+* Monday morning: Send the prepared batch of emails.
+
+* Monday afternoon: Record responses, check application deadlines and select the next batch.
+
+* Tuesday–Thursday: Read papers and prepare professor research notes.
+
+* Friday: Discover new professors and annual programmes.
+
+* Saturday: Work on applications and documents.
+
+* Sunday: Finalise and proofread the next Monday's emails.
+
+You do not have to send emails on any other day.
+
+### Week 0 — Immediate preparation
+
+19–22 November
+
+This is a short preparation period before your first Monday.
+
+* Create the master PhD application folder.
+
+* Create the professor database.
+
+* Create the annual programme database.
+
+* Collect your existing CV.
+
+* Prepare CV version 1.
+
+* Contact your university regarding transcripts.
+
+* Collect all available marksheets and certificates.
+
+* Identify your referees.
+
+* Select the first 14 professors from your existing list.
+
+* Read the research of the first 7–10 professors.
+
+* Prepare the first email template.
+
+* Draft and proofread the first batch.
+
+Target for 23 November: Send as many fully prepared emails as possible. If you cannot responsibly prepare 14, send fewer. Do not compensate by sending generic emails.
+
+### Week 1 — 23–29 November
+
+Monday 23 November — Email batch 1
+
+Email target: 14
+
+* Send the first prepared batch.
+
+* Complete CV version 1.
+
+* Obtain or request available academic records.
+
+* Read the research of the next 14 professors.
+
+* Identify at least 5 relevant annual programmes or advertised positions.
+
+* Check 2027 intake deadlines.
+
+* Prepare your MSc dissertation abstract.
+
+* Prepare your research-interest statement.
+
+* Update the email and application trackers.
+
+End-of-week deliverables:
+
+* CV version 1.
+
+* Transcripts requested or collected.
+
+* 14 emails sent, if the preparation allows.
+
+* 14 additional professors researched.
+
+* Initial programme shortlist.
+
+### Week 2 — 30 November–6 December
+
+Monday 30 November — Email batch 2
+
+Email target: 14
+
+* Send the second batch.
+
+* Read the next 14 professors' research.
+
+* Expand the professor list beyond supervoid specialists.
+
+* Search for individual funded PhD vacancies.
+
+* Check programme eligibility and funding.
+
+* Prepare the motivation-letter template.
+
+* Improve CV based on the first version.
+
+* Add project links when presentable.
+
+* Contact referees and confirm availability.
+
+* Start applications with approaching deadlines.
+
+End-of-week deliverables:
+
+* 28 cumulative emails sent, if on target.
+
+* CV version 2.
+
+* Motivation-letter draft.
+
+* At least one application ready or submitted, if a suitable opening is available.
+
+### Week 3 — 7–13 December
+
+Monday 7 December — Email batch 3
+
+Email target: 14
+
+* Send the third batch.
+
+* Read the next 14 professors' research.
+
+* Review the replies received so far.
+
+* Follow up only where appropriate.
+
+* Search for more annual programmes.
+
+* Check the status of transcripts.
+
+* Complete the research summary.
+
+* Submit applications with December deadlines.
+
+* Identify any missing application documents.
+
+* Update the professor ranking.
+
+End-of-week deliverables:
+
+* 42 cumulative emails sent, if on target.
+
+* Research summary completed.
+
+* Application documents substantially ready.
+
+* December deadlines reviewed.
+
+### Week 4 — 14–20 December
+
+Monday 14 December — Email batch 4
+
+Email target: 14
+
+* Send the fourth batch.
+
+* Read the next 14 professors' research.
+
+* Review the programme database.
+
+* Check the Durham 15 December fullest-consideration date if relevant to your application. Astronomy at Durham University
+
+* Check all January 2027 deadlines.
+
+* Submit any remaining urgent applications.
+
+* Check referee submissions.
+
+* Improve the CV and project descriptions.
+
+* Prepare a list of applications that need follow-up.
+
+End-of-week deliverables:
+
+* 56 cumulative emails sent, if on target.
+
+* All urgent December applications handled.
+
+* January application calendar prepared.
+
+### Week 5 — 21–25 December
+
+Monday 21 December — Email batch 5
+
+Email target: 14
+
+* Send the final batch.
+
+* Review all 70 email records.
+
+* Check that every sent email has a recorded date.
+
+* Record replies and follow-up dates.
+
+* Review all application deadlines for January and February.
+
+* Submit any remaining applications that are ready.
+
+* Identify programmes for the 2028 intake.
+
+* Make a follow-up plan for January.
+
+* Prepare a summary of the entire campaign.
+
+25 December deliverable: A completed outreach campaign, a documented programme shortlist, and an organised application pipeline.
+
+### 5\. The actual workload behind 70 emails
+
+I want to be realistic about this. Seventy personalised emails are a substantial amount of work.
+
+If you spend approximately 45–90 minutes researching each professor, that is around 52–105 hours of research alone. Add drafting, proofreading, document preparation and programme searches, and the workload becomes significant.
+
+I suggest using a tiered process:
+
+| Professor category               | Research effort      | Email approach                                          |
+| -------------------------------- | -------------------- | ------------------------------------------------------- |
+| Direct supervoid/void researcher | 60–90 min            | Detailed research connection                            |
+| Closely related cosmologist      | 45–60 min            | Connect through a specific paper or method              |
+| Broader astrophysics researcher  | 30–45 min            | Focus on a specific research overlap                    |
+| Programme contact/coordinator    | Depends on programme | Ask about admission procedure, not research supervision |
+
+These are planning estimates, not a substitute for understanding the work.
+
+One adjustment I strongly recommend: keep 70 as your target, but maintain a separate count of qualified emails. An email counts as qualified only if you have verified the recipient, read relevant research, established a genuine connection and checked the application route.
+
+It is better to have 45 strong emails than 70 messages that do not demonstrate research interest.
+
+### 6\. Recommended folder and tracker structure
+
+Create one central folder:
+
+```text
+PhD_Applications_2027/
+│
+├── 00_Master_Management/
+│   ├── Master_Todo.md
+│   ├── Weekly_Progress.md
+│   ├── Decision_Log.md
+│   └── Deadline_Calendar.xlsx
+│
+├── 01_Application_Documents/
+│   ├── CV/
+│   ├── Transcripts/
+│   ├── Certificates/
+│   ├── Thesis_Abstract/
+│   ├── Research_Statement/
+│   ├── Motivation_Letters/
+│   └── Referees/
+│
+├── 02_Annual_PhD_Programmes/
+│   ├── Germany/
+│   ├── Netherlands/
+│   ├── France/
+│   ├── Switzerland/
+│   ├── UK/
+│   └── Other_Europe/
+│
+├── 03_Individual_PhD_Vacancies/
+│
+├── 04_Professor_Outreach/
+│   ├── Professor_Database.xlsx
+│   ├── Papers_Read/
+│   ├── Research_Notes/
+│   ├── Email_Templates/
+│   ├── Draft_Emails/
+│   └── Sent_Emails/
+│
+├── 05_Applications_Submitted/
+│
+└── 06_Replies_and_Followups/
+```
+
+I would maintain three primary spreadsheets:
+
+* `Professor_Database.xlsx` — research, paper reading and email status.
+
+* `Programme_Database.xlsx` — annual programmes, eligibility, deadlines and applications.
+
+* `Application_Dashboard.xlsx` — documents, referees, submissions and outcomes.
+
+Do not combine all three into one enormous spreadsheet. They have different purposes.
+
+### 7\. Priority audit: what must happen first?
+
+Here is my final dependency audit. These are the tasks that can block everything else.
+
+### Critical path
+
+* Prepare CV version 1
+
+    You need a usable CV before sending most professor emails and applications.
+
+    Immediate
+
+* Request transcripts and certificates
+
+    Do this now because administrative delays are outside your control.
+
+    Immediate
+
+* Identify referees
+
+    Ask early. Recommendation letters can have separate deadlines.
+
+    Immediate
+
+* Build the two databases
+
+    Separate programme discovery from professor outreach.
+
+* Read papers and qualify professors
+
+    Prepare the first email batch before Monday morning.
+
+* Send emails and submit applications
+
+    Keep the two processes moving independently.
+
+* Track replies and deadlines
+
+    Convert every response into a next action.
+
+### Things that should not delay the campaign
+
+* Waiting for every GitHub project to be finished before making the CV.
+
+* Waiting for all transcripts before contacting professors. You can ask about opportunities while being transparent about your current academic status.
+
+* Searching for hundreds of professors before reading the first 20.
+
+* Reading every paper by a professor instead of selecting one or two relevant papers.
+
+* Waiting for a professor's response before submitting an application through a central portal.
+
+* Spending too long perfecting the email template.
+
+### 8\. Your first four days: exact action list
+
+This is what I would actually ask you to do next, in order.
+
+Immediate execution checklist
+
+0/11 complete
+
+Create PhD_Applications_2027 folder and the three trackers
+
+Management
+
+Collect your current CV and make a first complete draft
+
+Documents
+
+Contact the university about MSc transcripts and provisional records
+
+Documents
+
+Collect BSc marksheets, degree certificate and available MSc records
+
+Documents
+
+Contact potential referees and confirm their availability
+
+Documents
+
+Write a short MSc dissertation abstract
+
+Documents
+
+Enter the 20 professors already identified into the database
+
+Professors
+
+Select and read the first 7–10 professors' relevant papers
+
+Professors
+
+Prepare the three email templates
+
+Outreach
+
+Identify open 2027 PhD vacancies and their deadlines
+
+Programmes
+
+Prepare and proofread the first Monday email batch
+
+Outreach
+
+### 9\. A few decisions to settle before we expand this into the full tracker
+
+There are three details that could materially change the plan:
+
+* Target intake: Are you primarily aiming for a PhD starting in September/October 2027, or are you also willing to apply for 2028 entry?
+
+* Research scope: Should the professor search remain centred on supervoids, or should we actively include cosmology, large-scale structure, CMB, dark matter and computational astrophysics?
+
+* Application status: Are you currently awaiting your MSc final result, or have you completed the MSc and only need the official transcripts?
+
+My recommendation is to pursue both 2027 and 2028 opportunities, and to broaden the professor search beyond supervoids while keeping supervoids as your strongest research connection.
+
+The immediate objective is not to write 70 emails. It is to build a system in which every Monday morning you have 14 researched, checked and ready-to-send emails, while your formal applications continue moving forward independently.
